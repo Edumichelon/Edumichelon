@@ -3,7 +3,7 @@
 ## 👨‍🎓 Sobre Mim
 
 - 🖋**Nome:** Eduardo Michelon  
-- 🏤**Faculdade:** UniCesumar  
+- 🏤**Faculdade:** UniCesumar/Mgá 
 - 📚 **Curso:** Engenharia de Software 
 - ⌛**Período:** 1º semestre 
 - 💭**E-mail para contato:** edugomesmic78@gmail.com
